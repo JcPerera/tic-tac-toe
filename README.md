@@ -1,14 +1,7 @@
 # React TicTacToe Game
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Completed Stuff
-Implemented Local Player vs Player mode
-
-## To-Do Stuff
-Implement Player Vs Computer Logic\
-Implement Player Vs Player Logic\
-Implement Chat box for the two players
+## Preview
+https://simple-react-tictactoe.herokuapp.com/
 
 ## Available Scripts
 
